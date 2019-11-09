@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 git clone https://github.com/sqlmapproject/sqlmap
+cp logo.sh sqlmap
 cd sqlmap
 sh logo.sh
 echo ""
